@@ -7,11 +7,8 @@ public class SampleProject {
 
     public static void main(String[] args){
         //HAI HOW R U DOING
-        //System.out.println("Hello World!!!!");
-        System.out.println("welcome to egiants");
-        System.out.println("VIJAY");
-
-
+        System.out.println("Hello World");
+        System.out.println("greeshma");
     }
 
 }
